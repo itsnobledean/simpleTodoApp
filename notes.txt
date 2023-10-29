@@ -1,0 +1,20 @@
+all the things i need for a todo app
+
+heading
+
+div
+
+inside the div i'll have a form
+
+inside the form i'll have an empty ul
+
+i'll create the li's dynamically
+
+i'll also have an input element
+
+i'll also have a button
+
+i want to be able to type in the input a task, 
+then press the button to add the li element
+
+i want to be able to delete the li by clicking on it
